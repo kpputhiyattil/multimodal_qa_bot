@@ -1,0 +1,14 @@
+[
+  {
+    "question": "What is the main contribution of the paper?",
+    "answer": "The introduction of the Transformer model, which relies entirely on attention mechanisms."
+  },
+  {
+    "question": "Which datasets were used for evaluation?",
+    "answer": "WMT 2014 English-to-German and English-to-French translation tasks."
+  },
+  {
+    "question": "What mechanism replaces recurrence in the model?",
+    "answer": "Self-attention mechanism."
+  }
+]
